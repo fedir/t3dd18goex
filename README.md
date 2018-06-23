@@ -14,7 +14,7 @@ Let's create a node datatype, with following fields :
 
 * https://github.com/google/uuid
 
-## Tree operations
+## Tree operations
 
 ### TR-1 - Create a tree of Nodes
 
