@@ -107,7 +107,7 @@ Output "Hello T3DD18!" on every connect.
 * https://github.com/go-chi/chi
 * https://github.com/go-chi/chi/blob/master/_examples/hello-world/main.go
 
-## REST interface
+## REST interface
 
 ### RS-1 - List nodes via REST
 
@@ -183,7 +183,7 @@ Create a `model/event.go` with fields, which will be needed to represent a Place
 
 TBD
 
-## Templating
+## Templating
 
 TBD
 
