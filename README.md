@@ -60,7 +60,7 @@ Create a SQLite database and nodes table, with uuid, puuid, title.
 * Update a title of a node by it's UUID with GORM
 * Remove a node by UUID with GORM
 
-#### Ressources
+#### Ressources
 
 * http://doc.gorm.io/models.html#model-definition
 * http://doc.gorm.io/crud.html#create
