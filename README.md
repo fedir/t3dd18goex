@@ -4,7 +4,7 @@
 
 ### DS-1 - Create a Node data type
 
-Let's create a node datatype, with following fields :
+Create Node datatype in the file model/node.go. It should have following fields:
 
 * UUID
 * PUUID (UUID of the parent node)
