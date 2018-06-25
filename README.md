@@ -23,13 +23,12 @@ Create programmatically an hierarchical, non looped tree of Nodes, with at least
 * https://tour.golang.org/flowcontrol/1
 * https://github.com/drhodes/golorem
 
-### TR-2 - Search a Node by it's title, return the UUID
+### TR-2 - Search a Node in the tree
 
-Create programmatically an hierarchical, non looped tree of Nodes, with 3 level of depth. The tree should contain at least 10 Nodes.
+Search a Node in the generated tree by it's title, return the UUID.
 
 * https://stackoverflow.com/questions/1841443/iterating-over-all-the-keys-of-a-map
 * https://stackoverflow.com/questions/28495679/iterate-struct-map-key-value-in-golang
-
 
 ## Database operations
 
